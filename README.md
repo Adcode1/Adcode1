@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-sharma156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya sharma" height="30" width="40" padding-left="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-sharma156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/_.aditya.__.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aditya.__.sharma" height="30" width="40" /></a>
 </p>
 
